@@ -1,0 +1,20 @@
+
+/* Basic styles */
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+}
+/* Responsive styles using media queries */
+/* For mobile devices */
+@media screen and (max-width: 768px) {
+/* Styles for smaller screens */
+}
+/* For tablets */
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+/* Styles for medium-sized screens */
+}
+/* For desktops */
+@media screen and (min-width: 1025px) {
+/* Styles for larger screens */
+}
